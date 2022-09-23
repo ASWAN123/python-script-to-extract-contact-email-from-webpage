@@ -1,2 +1,3 @@
-email_scraper.py script for extracting contact email from bulk webpages
-convert_db_to_csv.py to convert json db to csv format
+make sure you made a text file of urls and name the file with urls.txt .
+email_scraper.py script for extracting contact email from bulk webpages .
+convert_db_to_csv.py to convert json db to csv format .
